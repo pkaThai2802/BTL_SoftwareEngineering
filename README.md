@@ -1,6 +1,6 @@
 # BTL_SoftwareEngineering
 Hệ thống Quản lý Sinh viên sẽ cung cấp các chức năng sau:
-       • Quản lý thông tin cá nhân của sinh viên.
+       • Quản lý thông tin cá nhân của sinh viên.\n
        • Quản lý kết quả học tập của sinh viên.
 Tác nhân:
        • Sinh viên
