@@ -13,7 +13,7 @@ Tác nhân:
        • Nhân viên kỹ thuật: Quản lý toàn bộ hệ thống, thêm và quản lý thông tin cá nhân của sinh viên.  
        • Giảng viên: Quản lý kết quả học tập của sinh viên.   
 Công Nghệ Sử Dụng  
-       • Ngôn Ngữ Lập Trình:HTML, CSS 
+       • Ngôn Ngữ Lập Trình:HTML, CSS, Javascrips  
        • Quản lý phiên bản:  
               o Git: Sử dụng để theo dõi các thay đổi mã nguồn và cộng tác giữa các nhà phát triển.  
               o GitHub: Lưu trữ mã nguồn, quản lý các vấn đề liên quan đến dự án.  
